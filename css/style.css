@@ -257,13 +257,9 @@ span {
 .skill:hover {
   background: rgba(12, 202, 178, 0.1);
   border-color: #89ed1c;
-  transform: translateY(-3px);
   box-shadow: 0 5px 15px rgba(137, 237, 28, 0.2);
 }
 
-.skill:hover i {
-  color: #89ed1c;
-}
 .skills-container:hover .skills-track {
   animation-play-state: paused;
 }
